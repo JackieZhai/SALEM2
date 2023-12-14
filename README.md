@@ -1,4 +1,4 @@
-# SA${\color{blue}\underline{\textrm{L}}}$EM${^2}$
+# ${\textrm{SA}}{\textcolor{HTML}{6D8764}\underline{\textrm{L}}}{\color{HTML}{647687}\underline{\textrm{E}}}{\textrm{M}^2}$
 
 ![SALEM2 Dataset Repository Overview](assets/SALEM2-Dataset.svg)
 
