@@ -1,8 +1,11 @@
 # ![SALEM2 Logo](assets/SALEM2-Logo.svg)
 
-![SALEM2 Dataset Repository Overview](assets/SALEM2-Dataset.svg)
+SA<u>LE</u>M<sup>2</sup>: Segment Anything in <u>L</u>ight and <u>E</u>lectron <b>M</b>icroscopy via <b>M</b>embrane Guidance
 
-SALEM<sup>2</sup>: Segment Anything in Microscopy via Membrane Guidance
+<figure>
+    <img src="assets/SALEM2-Dataset.svg"/>
+    <figcaption>(This figure has been modified to match the text in "Datasets" section.)</figcaption>
+</figure>
 
 Codes and data collections will be released upon publication.
 
@@ -11,8 +14,10 @@ Codes and data collections will be released upon publication.
 
 Quantitative comparison: [SAM](https://github.com/facebookresearch/segment-anything), [HQ-SAM](https://github.com/SysCV/sam-hq), [Mobile-SAM](https://github.com/ChaoningZhang/MobileSAM) (from HQ-SAM) and [Micro-SAM](https://github.com/computational-cell-analytics/micro-sam), as well as trained SAM and HQ-SAM in both LM and EM datasets.
 
-![SALEM2 Compare General-purpose Methods](assets/Compare-GM.png)
-
+<figure>
+  <img src="assets/Compare-GM.png"/>
+  <figcaption></figcaption>
+</figure>
 
 ### Comparison with Specialized Supervised Methods
 
