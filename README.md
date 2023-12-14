@@ -1,4 +1,4 @@
-# SALEM<sup>2</sup>
+# SA${\color{blue}\underline{\textrm{L}}}$EM${^2}$
 
 ![SALEM2 Dataset Repository Overview](assets/SALEM2-Dataset.svg)
 
