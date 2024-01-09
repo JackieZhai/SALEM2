@@ -80,14 +80,12 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
 <table>
     <tr>
         <td><img src="assets/NcremiC_origin.gif" width="200"></td>
-        <td><img src="assets/NcremiC.gif" width="200"></td>
         <td><img src="assets/NcremiC_labels.gif" width="200"></td>
         <td><img src="assets/CREMI-C103-ilastik.jpg" width="200"></td>
         <td><img src="assets/CREMI-C103.jpg" width="200"></td>
     </tr>
     <tr>
         <td><p align="center">Raw<br>(sections 100-106)</p></td>
-        <td><p align="center">Raw with preprocessing<br>(sections 100-106)</p></td>
         <td><p align="center">GT<br>(sections 100-106)</p></td>
         <td><p align="center">ilastik (section 103)<br>(<a href="http://dx.doi.org/10.1038/s41592-019-0582-9">Nat. Methods 2019</a>)</p></td>
         <td><p align="center">SAEM<sup>2</sup> (section 103)<br>(Ours)</p></td>
