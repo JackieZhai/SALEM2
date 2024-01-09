@@ -24,18 +24,18 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
 
 <table>
     <tr>
-        <td><img src="assets/Elong-528-raw.jpg" width="200pt"></td>
-        <td><img src="assets/Elong-528-label.jpg" width="200pt"></td>
-        <td><img src="assets/Elong-528-CellPose.png" width="200pt"></td>
-        <td><img src="assets/Elong-528-OmniPose.png" width="200pt"></td>
-        <td><img src="assets/Elong-528.png" width="200pt"></td>
+        <td><img src="assets/Elong-528-raw.jpg" width="200"></td>
+        <td><img src="assets/Elong-528-label.jpg" width="200"></td>
+        <td><img src="assets/Elong-528-CellPose.png" width="200"></td>
+        <td><img src="assets/Elong-528-OmniPose.png" width="200"></td>
+        <td><img src="assets/Elong-528.png" width="200"></td>
     </tr>
-    <tr style="text-align:center">
-        <td>Raw</td>
-        <td>GT</td>
-        <td>CellPose<br>(<a href="http://dx.doi.org/10.1038/s41592-020-01018-x">Nat. Methods 2021</a>)</td>
-        <td>OmniPose<br>(<a href="http://dx.doi.org/10.1038/s41592-022-01639-4">Nat. Methods 2022</a>)</td>
-        <td>SALM<sup>2</sup><br>(Ours)</td>
+    <tr>
+        <td><p align="center">Raw</p></td>
+        <td><p align="center">GT</p></td>
+        <td><p align="center">CellPose<br>(<a href="http://dx.doi.org/10.1038/s41592-020-01018-x">Nat. Methods 2021</a>)</p></td>
+        <td><p align="center">OmniPose<br>(<a href="http://dx.doi.org/10.1038/s41592-022-01639-4">Nat. Methods 2022</a>)</p></td>
+        <td><p align="center">SALM<sup>2</sup><br>(Ours)</p></td>
     </tr>
 </table>
 
@@ -43,16 +43,16 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
 
 <table>
     <tr>
-        <td><img src="assets/Weak-738-raw.jpg" width="200pt"></td>
-        <td><img src="assets/Weak-738-label.jpg" width="200pt"></td>
-        <td><img src="assets/Weak-738-CellPose.jpg" width="200pt"></td>
-        <td><img src="assets/Weak-738.jpg" width="200pt"></td>
+        <td><img src="assets/Weak-738-raw.jpg" width="200"></td>
+        <td><img src="assets/Weak-738-label.jpg" width="200"></td>
+        <td><img src="assets/Weak-738-CellPose.jpg" width="200"></td>
+        <td><img src="assets/Weak-738.jpg" width="200"></td>
     </tr>
-    <tr style="text-align:center">
-        <td>Raw</td>
-        <td>GT</td>
-        <td>CellPose<br>(<a href="http://dx.doi.org/10.1038/s41592-020-01018-x">Nat. Methods 2021</a>)</td>
-        <td>SALM<sup>2</sup><br>(Ours)</td>
+    <tr>
+        <td><p align="center">Raw</p></td>
+        <td><p align="center">GT</p></td>
+        <td><p align="center">CellPose<br>(<a href="http://dx.doi.org/10.1038/s41592-020-01018-x">Nat. Methods 2021</a>)</p></td>
+        <td><p align="center">SALM<sup>2</sup><br>(Ours)</p></td>
     </tr>
 </table>
 
@@ -60,18 +60,18 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
 
 <table>
     <tr>
-        <td><img src="assets/NcremiB_origin.gif" width="200pt"></td>
-        <td><img src="assets/NcremiB.gif" width="200pt"></td>
-        <td><img src="assets/NcremiB_labels.gif" width="200pt"></td>
-        <td><img src="assets/CREMI-B15-Superhuman.jpg" width="200pt"></td>
-        <td><img src="assets/CREMI-B15.jpg" width="200pt"></td>
+        <td><img src="assets/NcremiB_origin.gif" width="200"></td>
+        <td><img src="assets/NcremiB.gif" width="200"></td>
+        <td><img src="assets/NcremiB_labels.gif" width="200"></td>
+        <td><img src="assets/CREMI-B15-Superhuman.jpg" width="200"></td>
+        <td><img src="assets/CREMI-B15.jpg" width="200"></td>
     </tr>
-    <tr style="text-align:center">
-        <td>Raw<br>(sections 12-18)</td>
-        <td>Raw with preprocessing<br>(sections 12-18)</td>
-        <td>GT<br>(sections 12-18)</td>
-        <td>Superhuman (section 15)<br>(<a href="http://dx.doi.org/10.1038/s41592-021-01330-0">Nat. Methods 2022</a>)</td>
-        <td>SAEM<sup>2</sup> (section 15)<br>(Ours)</td>
+    <tr>
+        <td><p align="center">Raw<br>(sections 12-18)</p></td>
+        <td><p align="center">Raw with preprocessing<br>(sections 12-18)</p></td>
+        <td><p align="center">GT<br>(sections 12-18)</p></td>
+        <td><p align="center">Superhuman (section 15)<br>(<a href="http://dx.doi.org/10.1038/s41592-021-01330-0">Nat. Methods 2022</a>)</p></td>
+        <td><p align="center">SAEM<sup>2</sup> (section 15)<br>(Ours)</p></td>
     </tr>
 </table>
 
@@ -79,18 +79,18 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
 
 <table>
     <tr>
-        <td><img src="assets/NcremiC_origin.gif" width="200pt"></td>
-        <td><img src="assets/NcremiC.gif" width="200pt"></td>
-        <td><img src="assets/NcremiC_labels.gif" width="200pt"></td>
-        <td><img src="assets/CREMI-C103-ilastik.jpg" width="200pt"></td>
-        <td><img src="assets/CREMI-C103.jpg" width="200pt"></td>
+        <td><img src="assets/NcremiC_origin.gif" width="200"></td>
+        <td><img src="assets/NcremiC.gif" width="200"></td>
+        <td><img src="assets/NcremiC_labels.gif" width="200"></td>
+        <td><img src="assets/CREMI-C103-ilastik.jpg" width="200"></td>
+        <td><img src="assets/CREMI-C103.jpg" width="200"></td>
     </tr>
-    <tr style="text-align:center">
-        <td>Raw<br>(sections 100-106)</td>
-        <td>Raw with preprocessing<br>(sections 100-106)</td>
-        <td>GT<br>(sections 100-106)</td>
-        <td>ilastik (section 103)<br>(<a href="http://dx.doi.org/10.1038/s41592-019-0582-9">Nat. Methods 2019</a>)</td>
-        <td>SAEM<sup>2</sup> (section 103)<br>(Ours)</td>
+    <tr>
+        <td><p align="center">Raw<br>(sections 100-106)</p></td>
+        <td><p align="center">Raw with preprocessing<br>(sections 100-106)</p></td>
+        <td><p align="center">GT<br>(sections 100-106)</p></td>
+        <td><p align="center">ilastik (section 103)<br>(<a href="http://dx.doi.org/10.1038/s41592-019-0582-9">Nat. Methods 2019</a>)</p></td>
+        <td><p align="center">SAEM<sup>2</sup> (section 103)<br>(Ours)</p></td>
     </tr>
 </table>
 
