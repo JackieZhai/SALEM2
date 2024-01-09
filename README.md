@@ -61,14 +61,12 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
 <table>
     <tr>
         <td><img src="assets/NcremiB_origin.gif" width="200"></td>
-        <td><img src="assets/NcremiB.gif" width="200"></td>
         <td><img src="assets/NcremiB_labels.gif" width="200"></td>
         <td><img src="assets/CREMI-B15-Superhuman.jpg" width="200"></td>
         <td><img src="assets/CREMI-B15.jpg" width="200"></td>
     </tr>
     <tr>
         <td><p align="center">Raw<br>(sections 12-18)</p></td>
-        <td><p align="center">Raw with preprocessing<br>(sections 12-18)</p></td>
         <td><p align="center">GT<br>(sections 12-18)</p></td>
         <td><p align="center">Superhuman (section 15)<br>(<a href="http://dx.doi.org/10.1038/s41592-021-01330-0">Nat. Methods 2022</a>)</p></td>
         <td><p align="center">SAEM<sup>2</sup> (section 15)<br>(Ours)</p></td>
@@ -92,4 +90,12 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
     </tr>
 </table>
 
-More results can be found in Google Drive: [BBC039](https://drive.google.com/drive/folders/1VsXcneTsRx5YMzfkZyKcWtbndbpjnm1m?usp=sharing), [NeurIPS22-CellSeg](https://drive.google.com/drive/folders/1BG9F-LRvL9JaDYOige8bn-S1TWCX1kDE?usp=sharing) and [CREMI](https://drive.google.com/drive/folders/1xrIDpgqlOEVcaKmnbrCNFaaKRvHCfZWW?usp=sharing). We used CellPose and OmniPose with the configurations of `nuclei (flow_threshold=0.3)` for Bare Nuclei, `tissuenet (flow_threshold=0.6)` for Weak Boundary, `nuclei (flow_threshold=0.6)` and `omnipose (bact_phase_omni)` for Elongated. We used the open-sourced trained models of ilastik and Superhuman with default configurations.
+More results can be found in Google Drive: [BBC039](https://drive.google.com/drive/folders/1VsXcneTsRx5YMzfkZyKcWtbndbpjnm1m?usp=sharing), [NeurIPS22-CellSeg](https://drive.google.com/drive/folders/1BG9F-LRvL9JaDYOige8bn-S1TWCX1kDE?usp=sharing) and [CREMI](https://drive.google.com/drive/folders/1xrIDpgqlOEVcaKmnbrCNFaaKRvHCfZWW?usp=sharing). We used CellPose and OmniPose with the configurations of `nuclei (flow_threshold=0.3)` for Bare Nuclei, `tissuenet (flow_threshold=0.6)` for Weak Boundary, `nuclei (flow_threshold=0.6)` and `omnipose (bact_phase_omni)` for Elongated. We used the open-sourced trained models of ilastik and Superhuman with alternative [preprocessing](https://github.com/JackieZhai/SALEM2/blob/master/assets/NcremiB.gif) steps.
+
+
+### Contributors
+
+* [Hao Zhai](https://github.com/JackieZhai)
+* [Jinyue Guo](https://github.com/fenglingbai)
+* [Yanchao Zhang](https://github.com/Cristand)
+* and [MiRA Team](https://github.com/MiRA-Han-Lab)
