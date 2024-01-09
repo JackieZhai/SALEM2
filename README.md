@@ -68,7 +68,7 @@ Qualitative comparison: [CellPose](https://github.com/MouseLand/cellpose) in LM,
     <tr>
         <td><p align="center">Raw<br>(sections 12-18)</p></td>
         <td><p align="center">GT<br>(sections 12-18)</p></td>
-        <td><p align="center">Superhuman (section 15)<br>(<a href="http://dx.doi.org/10.1038/s41592-021-01330-0">Nat. Methods 2022</a>)</p></td>
+        <td><p align="center">Superhuman (section 15)<br>(<a href="http://dx.doi.org/10.1109/TMI.2021.3097826">IEEE Trans. Med. Imaging 2021</a>)</p></td>
         <td><p align="center">SAEM<sup>2</sup> (section 15)<br>(Ours)</p></td>
     </tr>
 </table>
