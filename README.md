@@ -98,4 +98,15 @@ More results can be found in Google Drive: [BBC039](https://drive.google.com/dri
 * [Hao Zhai](https://github.com/JackieZhai)
 * [Jinyue Guo](https://github.com/fenglingbai)
 * [Yanchao Zhang](https://github.com/Cristand)
-* and [MiRA Team](https://github.com/MiRA-Han-Lab)
+
+Thanks to the other authors and [MiRA Team](https://github.com/MiRA-Han-Lab) for their support and resources.
+
+
+### Acknowledgments
+
+* [SAM](https://github.com/facebookresearch/segment-anything)
+* [HQ-SAM](https://github.com/SysCV/sam-hq)
+* [Micro-SAM](https://github.com/computational-cell-analytics/micro-sam)
+* [Mobile-SAM](https://github.com/ChaoningZhang/MobileSAM)
+
+Thanks for their public code and released models.
