@@ -2,11 +2,9 @@
 
 SA<u>LE</u>M<sup>2</sup>: Segment Anything in <u>L</u>ight and <u>E</u>lectron <b>M</b>icroscopy via <b>M</b>embrane Guidance
 
-![SALEM2 Dataset Repository Overview](assets/SALEM2-Dataset.svg)
-<br>
-(This figure has been modified to match the text in "Datasets" section.)
+This repository has been de. Please instead refer SAEM2 in [SAvEM3](https://github.com/JackieZhai/SAvEM3).
 
-Codes and data collections will be released upon publication.
+![SALEM2 Dataset Repository Overview](assets/SALEM2-Dataset.svg)
 
 
 ### Comparison with General-purpose Methods
